@@ -1,5 +1,7 @@
 # Moodle Question Bank Cleaner
 
+> 🇪🇸 [Guía paso a paso en español](README.es.md)
+
 A conservative-but-thorough **CLI maintenance tool for Moodle 5.2.x** that removes question-version clutter without intentionally changing quiz contents.
 
 It is **not a Moodle plugin**. It is a temporary command-line administration script that you copy to `<moodle_root>/admin/cli/`, run, verify, and then remove.
