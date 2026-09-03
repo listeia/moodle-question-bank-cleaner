@@ -27,6 +27,13 @@ lib/
 Si tu instalación moderna usa una carpeta `public/` como raíz web, no confundas la raíz que sirve Apache/Nginx con la raíz del código de Moodle. Para este script importa la carpeta donde están `config.php` y `admin/`.
 
 ---
+## Compatibilidad
+
+`--apply` está restringido a la rama 502 de Moodle (Moodle 5.2.x).
+
+Probado en producción con Moodle 5.2.2 (Build 20260810).
+
+---
 
 ## 1. Subir el archivo
 
