@@ -1,5 +1,7 @@
 # Moodle Question Bank Cleaner — guía paso a paso en español
 
+> 🇬🇧 [English documentation](README.md)
+
 Esta es la guía «sin dar nada por supuesto».
 
 **Idea fundamental:** el programa no es un plugin. Es un script temporal de administración para ejecutar desde la terminal del servidor.
