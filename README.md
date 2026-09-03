@@ -26,9 +26,9 @@ It is **not a Moodle plugin**. It is a temporary command-line administration scr
 
 ## Compatibility
 
-**Version 1.0.0 has been tested on Moodle 5.2.x.**
+`--apply` is restricted to Moodle branch 502 (Moodle 5.2.x).
 
-Dry-run may be useful for inspection on other branches, but `--apply` intentionally refuses to run outside Moodle branch `502` in this release.
+Production-tested on Moodle 5.2.2 (Build 20260810).
 
 ## Safety model
 
